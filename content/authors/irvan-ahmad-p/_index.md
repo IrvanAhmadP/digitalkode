@@ -1,5 +1,5 @@
 ---
-title: Irvan Ahmad P
+title: Irvan Ahmad
 social:
   - name: Linkedin
     url: https://www.linkedin.com/in/irvan-ahmad-prasetya-6306a8115/
